@@ -4,14 +4,14 @@ Cloud computing is a scalable services consumption and delivery platform that pr
 
 # Course layout
 - **Week 1**: Introduction to Cloud Computing
-- Week 2: Cloud Computing Architecture
-- Week 3: Service Management in Cloud Computing
-- Week 4: Data Management in Cloud Computing
-- Week 5: Resource Management in Cloud
-- Week 6: Cloud Security
-- Week 7: Open Source and Commercial Clouds, Cloud Simulator
-- Week 8: Research trend in Cloud Computing, Fog Computing
-- Week 9: VM Resource Allocation, Management and Monitoring
-- Week 10: Cloud-Fog-Edge enabled Analytics
-- Week 11: Serverless Computing and FaaS Model
-- Week 12: Case Studies and Recent Advancements
+- **Week 2**: Cloud Computing Architecture
+- **Week 3**: Service Management in Cloud Computing
+- **Week 4**: Data Management in Cloud Computing
+- **Week 5**: Resource Management in Cloud
+- **Week 6**: Cloud Security
+- **Week 7**: Open Source and Commercial Clouds, Cloud Simulator
+- **Week 8**: Research trend in Cloud Computing, Fog Computing
+- **Week 9**: VM Resource Allocation, Management and Monitoring
+- **Week 10**: Cloud-Fog-Edge enabled Analytics
+- **Week 11**: Serverless Computing and FaaS Model
+- **Week 12**: Case Studies and Recent Advancements
